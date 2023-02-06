@@ -1,6 +1,6 @@
 # mrgrish.github.io
-My website
+William Trovinger's homepage
 
-theme: jekyll-theme-minimal
-title: William Trovinger's homepage
-description: My github website!
+Welcome to my github website!
+
+Link to my [Github User](https://github.com/mrgrish)
